@@ -16,3 +16,5 @@ tqdm>=4.70
 ipykernel>=7.0
 nbformat>=5.10
 nbconvert>=7.17
+
+kagglehub==1.0.2
